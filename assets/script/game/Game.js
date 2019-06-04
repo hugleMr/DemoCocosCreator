@@ -16,7 +16,8 @@ cc.Class({
     },
 
     start () {
-
+        //=============
+        //sekjdghksljhfgksg
     },
 
     update (dt) {
