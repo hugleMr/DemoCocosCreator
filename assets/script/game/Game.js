@@ -10,9 +10,7 @@ cc.Class({
     },
 
     onLoad () {
-        //123454
-        //2233234
-        //123asdoljio
+        /// xxxxxxxxx
     },
 
     start () {
@@ -21,7 +19,10 @@ cc.Class({
     },
 
     update (dt) {
-        
+        //khkshgkhslkhglsldg
+        //sl;rkghkjhghlkdsgkfd
+        //srlkghkjdhgkjdhgklnkldfg
+        //kjshbkjgbkjsgjkdekg
     },
 
     showPopupLeaderBoard () {
@@ -35,6 +36,5 @@ cc.Class({
         AudioManager.instance.playButton();
         //////
         /////
-
     }
 });
