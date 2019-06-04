@@ -14,15 +14,15 @@ cc.Class({
     },
 
     start () {
-        //=============
-        //sekjdghksljhfgksg
+        //asdlfj;ládkf
+        //;jkl;klj
+        //l;kalkjdsf;
     },
 
     update (dt) {
-        //khkshgkhslkhglsldg
-        //sl;rkghkjhghlkdsgkfd
-        //srlkghkjdhgkjdhgklnkldfg
-        //kjshbkjgbkjsgjkdekg
+        // ;alsdjf;kl
+        //;jklasdf;jkl
+        //l;jkasdfl;ji
     },
 
     showPopupLeaderBoard () {
