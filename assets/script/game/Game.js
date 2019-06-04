@@ -10,7 +10,9 @@ cc.Class({
     },
 
     onLoad () {
-        /// xxxxxxxxx
+        //123454
+        //2233234
+        //123asdoljio
     },
 
     start () {
@@ -32,5 +34,6 @@ cc.Class({
         AudioManager.instance.playButton();
         //////
         /////
+
     }
 });
