@@ -30,5 +30,7 @@ cc.Class({
         });
 
         AudioManager.instance.playButton();
+        //////
+        /////
     }
 });
